@@ -1,3 +1,6 @@
+# lib/Varien/Filter/Template
+lib/Varien/Filter/Template/Simple.php               lib/Varien/Filter/Template/Simple.php
+
 # app/code
 app/code/local/Inchoo/PHP7                          app/code/local/Inchoo/PHP7
 
